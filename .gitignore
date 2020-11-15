@@ -1,4 +1,6 @@
 # Created by https://www.gitignore.io/api/python,django
+.vscode/*
+
 ### Google Cloud Proxy for Google DB ###
 cloud_sql_proxy
 cloud_sql_proxy.exe
